@@ -12,3 +12,4 @@ jupyter
 python-dotenv
 requests
 datasets
+tqdm
