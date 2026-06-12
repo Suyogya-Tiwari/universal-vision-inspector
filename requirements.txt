@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+torch
+torchvision
+transformers
+qdrant-client
+opencv-python
+numpy
+pillow
+jupyter
+python-dotenv
+requests
+datasets
